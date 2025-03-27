@@ -4,7 +4,6 @@
 
 This project demonstrates how to use an ultrasonic distance sensor (HC-SR04) along with three LEDs (green, yellow, and red) to display distance measurements and indicate proximity. The distance thresholds that control which LED is activated are adjustable in real-time using a joystick. The system measures the distance, compares it to adjustable thresholds, and activates the appropriate LED.
 
-https://trello.com/c/WiBFNgrZ/15-https-youtube-ltarkd0h42efeatureshared
 
 ### Features:
 - Measures the distance using an ultrasonic sensor (HC-SR04).
