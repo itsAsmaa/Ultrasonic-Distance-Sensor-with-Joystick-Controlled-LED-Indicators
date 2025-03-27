@@ -39,13 +39,4 @@ This project demonstrates how to use an ultrasonic distance sensor (HC-SR04) alo
   - Yellow LED → Pin 4
   - Red LED → Pin 3
 
-## Code Explanation:
 
-### Pin Assignments:
-```cpp
-const int trigPin = 11;
-const int echoPin = 10;
-const int xPin = A4;  // Joystick X-axis pin
-const int greenLEDPin = 5;
-const int yellowLEDPin = 4;
-const int redLEDPin = 3;
