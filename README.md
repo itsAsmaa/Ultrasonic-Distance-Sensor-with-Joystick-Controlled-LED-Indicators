@@ -8,6 +8,11 @@ https://youtu.be/LTArKD0h42E?si=t55KWMlgqFbBT8uG
 
 https://youtu.be/x5u9-n0Tq74?si=IWwv3EfEcfw55wc6
 
+
+## Tinkercad design 
+https://trello.com/c/zueYYzqT/7-https-wwwtinkercadcom-things-9tatzuo0rib-magnificent-kasisharecodeffiogc69drbipb8zwq2eo0zjaojtdac7rtjctfhwsk
+
+
 ### Features:
 - Measures the distance using an ultrasonic sensor (HC-SR04).
 - Controls three LEDs based on the distance:
