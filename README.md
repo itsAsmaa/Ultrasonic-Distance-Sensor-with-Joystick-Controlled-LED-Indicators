@@ -10,7 +10,7 @@ https://youtu.be/x5u9-n0Tq74?si=IWwv3EfEcfw55wc6
 
 
 ## Tinkercad design 
-https://trello.com/c/zueYYzqT/7-https-wwwtinkercadcom-things-9tatzuo0rib-magnificent-kasisharecodeffiogc69drbipb8zwq2eo0zjaojtdac7rtjctfhwsk
+https:www.tinkercadcom-things-9tatzuo0rib-magnificent-kasisharecodeffiogc69drbipb8zwq2eo0zjaojtdac7rtjctfhwsk
 
 
 ### Features:
