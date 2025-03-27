@@ -10,7 +10,7 @@ https://youtu.be/x5u9-n0Tq74?si=IWwv3EfEcfw55wc6
 
 
 ## Tinkercad design 
-https:www.tinkercadcom-things-9tatzuo0rib-magnificent-kasisharecodeffiogc69drbipb8zwq2eo0zjaojtdac7rtjctfhwsk
+https://www.tinkercad.com/things/9TAtZuO0RIB-magnificent-kasi/editel?returnTo=%2Fthings%2F9TAtZuO0RIB-magnificent-kasi%3Fsharecode%3DffiOGC69drb_IPB8zWq2eO0ZJaoJtdAc7RtJcTFhWSk
 
 
 ### Features:
